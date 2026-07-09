@@ -26,8 +26,8 @@ My current interests include **software engineering, systems, application securi
 ![Linux](https://img.shields.io/badge/-Linux-2E86AB?style=flat-square\&logo=linux\&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-2E86AB?style=flat-square\&logo=nextdotjs\&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-2E86AB?style=flat-square\&logo=git\&logoColor=white)
-
 <br>
+
 ### Currently
 
 * Deepening my knowledge of C++ and software engineering
