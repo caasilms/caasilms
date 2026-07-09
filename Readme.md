@@ -12,7 +12,7 @@
 
 I'm a Computer Engineering student at **UFMG** with a technical degree in **Computer Networks from CEFET-MG**.
 
-I enjoy building software and understanding how systems work under the hood — from application architecture and C++ to Linux and security.
+I enjoy building software and understanding how systems work under the hood, from application architecture and C++ to Linux and security.
 
 My current interests include **software engineering, systems, application security and offensive security**.
 
