@@ -22,14 +22,13 @@ Currently exploring **software engineering, systems and offensive security**.
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-2E86AB?style=flat-square&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2E86AB?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-2E86AB?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-2E86AB?style=flat-square&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-2E86AB?style=flat-square&logo=python&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-2E86AB?style=flat-square&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-2E86AB?style=flat-square&logo=git&logoColor=white)
 
 <br>
-
 
 ### Currently
 
@@ -45,5 +44,7 @@ My pinned repositories below highlight the projects I'm currently most intereste
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/isaaclms/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/isaaclms/">
+    <img src="https://img.shields.io/badge/-LinkedIn-2E86AB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
