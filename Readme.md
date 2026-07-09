@@ -1,6 +1,6 @@
-<h1 align="center">Isaac Lima</h1>
+<h1 align="left">Isaac Lima</h1>
 
-<p align="center">
+<p align="left">
   Computer Engineering student at UFMG
   <br>
   Software • Systems • Security
@@ -10,40 +10,43 @@
 
 ### About
 
-I'm a Computer Engineering student at **UFMG** with a technical background in **Computer Networks from CEFET-MG**.
+I'm a Computer Engineering student at **UFMG** with a technical degree in **Computer Networks from CEFET-MG**.
 
-I enjoy building software and understanding how systems work under the hood, from application architecture and C++ to Linux and security.
+I enjoy building software and understanding how systems work under the hood — from application architecture and C++ to Linux and security.
 
-Currently exploring **software engineering, systems and offensive security**.
+My current interests include **software engineering, systems, application security and offensive security**.
 
 <br>
 
 **Stack**
 
-![C++](https://img.shields.io/badge/-C%2B%2B-2E86AB?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-2E86AB?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-2E86AB?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-2E86AB?style=flat-square&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-2E86AB?style=flat-square&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-2E86AB?style=flat-square&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-2E86AB?style=flat-square&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-2E86AB?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-2E86AB?style=flat-square\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-2E86AB?style=flat-square\&logo=typescript\&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-2E86AB?style=flat-square\&logo=linux\&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-2E86AB?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-2E86AB?style=flat-square\&logo=git\&logoColor=white)
 
 <br>
 
 ### Currently
 
-* Studying Computer Engineering at UFMG
-* Improving my C++ and software engineering skills
-* Exploring offensive security and application security
-* Building projects involving automation and AI
-
-### Selected work
-
-My pinned repositories below highlight the projects I'm currently most interested in.
+* Deepening my knowledge of C++ and software engineering
+* Studying application and offensive security
+* Building software focused on automation and AI
+* Exploring systems and low-level concepts
 
 ---
 
-<p align="center">
+### Languages
+
+* Portuguese — Native
+* English — C1
+* German — A1
+* Spanish — A1
+
+
+<p align="left">
   <a href="https://www.linkedin.com/in/isaaclms/">
     <img src="https://img.shields.io/badge/-LinkedIn-2E86AB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
