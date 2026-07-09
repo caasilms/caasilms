@@ -45,6 +45,9 @@ My current interests include **software engineering, systems, application securi
 * German — A1
 * Spanish — A1
 
+---
+
+### Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/isaaclms/">
