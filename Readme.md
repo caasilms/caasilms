@@ -3,7 +3,7 @@
 <p align="left">
   Computer Engineering student at UFMG
   <br>
-  Software • Systems • Security
+  Backend • Systems • Security
 </p>
 
 ---
@@ -12,28 +12,45 @@
 
 I'm a Computer Engineering student at **UFMG** with a technical degree in **Computer Networks from CEFET-MG**.
 
-I enjoy building software and understanding how systems work under the hood, from application architecture and C++ to Linux and security.
+I'm interested in backend development, software architecture and security, especially understanding how applications and systems behave beyond the surface.
 
-My current interests include **software engineering, systems, application security and offensive security**.
+My current focus is building a strong foundation in **Java backend development and software engineering**, while continuing to explore **application security, offensive security, Linux and systems**.
 
 <br>
 
-**Stack**
+### Technologies
 
+**Languages**
+
+![Java](https://img.shields.io/badge/-Java-2E86AB?style=flat-square\&logo=openjdk\&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-2E86AB?style=flat-square\&logo=cplusplus\&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-2E86AB?style=flat-square\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-2E86AB?style=flat-square\&logo=typescript\&logoColor=white)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-2E86AB?style=flat-square\&logo=springboot\&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-2E86AB?style=flat-square\&logo=react\&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2E86AB?style=flat-square\&logo=postgresql\&logoColor=white)
+
+**Systems & Tools**
+
 ![Linux](https://img.shields.io/badge/-Linux-2E86AB?style=flat-square\&logo=linux\&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-2E86AB?style=flat-square\&logo=nextdotjs\&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-2E86AB?style=flat-square\&logo=git\&logoColor=white)
+
 <br>
 
 ### Currently
 
-* Deepening my knowledge of C++ and software engineering
+* Focusing on Java and backend development
+* Learning the Spring ecosystem and relational database design
 * Studying application and offensive security
-* Building software focused on automation and AI
-* Exploring systems and low-level concepts
+* Exploring systems and software architecture
 
 ---
 
