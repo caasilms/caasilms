@@ -15,8 +15,8 @@ I'm a Computer Engineering student at **UFMG** with a technical degree in **Comp
 I'm interested in backend development, software architecture and security, especially understanding how applications and systems behave beyond the surface.
 
 My current focus is building a strong foundation in **Java backend development and software engineering**, while continuing to explore **application security, offensive security, Linux and systems**.
-
 <br>
+
 ### Technologies
 
 **Languages**
