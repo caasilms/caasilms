@@ -17,7 +17,6 @@ I'm interested in backend development, software architecture and security, espec
 My current focus is building a strong foundation in **Java backend development and software engineering**, while continuing to explore **application security, offensive security, Linux and systems**.
 
 <br>
-
 ### Technologies
 
 **Languages**
@@ -42,7 +41,6 @@ My current focus is building a strong foundation in **Java backend development a
 
 ![Linux](https://img.shields.io/badge/-Linux-2E86AB?style=flat-square\&logo=linux\&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-2E86AB?style=flat-square\&logo=git\&logoColor=white)
-
 <br>
 
 ### Currently
